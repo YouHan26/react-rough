@@ -2,7 +2,7 @@
 using `css-paint-es` instance of native api
 
 ![example](https://i.ibb.co/SDj0fmg/image.png)
-# rough-paint
+
 Using Houdini CSS [Paint API](https://developers.google.com/web/updates/2018/01/paintapi) with [Rough.js](https://roughjs.com/)
 
 ```html
@@ -24,6 +24,11 @@ Using Houdini CSS [Paint API](https://developers.google.com/web/updates/2018/01/
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
   <input type="text" placeholder="Enter some text">
 </div>
+```
+
+## Install
+```bash
+import 'css-rough'
 ```
 
 ## CSS Properties
