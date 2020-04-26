@@ -1,6 +1,7 @@
 # css-rough
 using `css-paint-es` instance of native api
 
+![example](https://i.ibb.co/SDj0fmg/image.png)
 # rough-paint
 Using Houdini CSS [Paint API](https://developers.google.com/web/updates/2018/01/paintapi) with [Rough.js](https://roughjs.com/)
 
